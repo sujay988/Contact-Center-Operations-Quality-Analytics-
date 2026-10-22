@@ -16,7 +16,8 @@ The dashboard bridges the gap between raw ticket logs and strategic decision-mak
 ---
 
 ## 🖼️ Dashboard Preview
-*(Add your dashboard screenshot here: `![Dashboard Screenshot](dashboard_preview.png)`)*
+*(Add your dashboard screenshot here: <img width="662" height="677" alt="rt" src="https://github.com/user-attachments/assets/a239db39-2e2e-40bd-9623-22b8b465c1ab" />
+
 
 ---
 
