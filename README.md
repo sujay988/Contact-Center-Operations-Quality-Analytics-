@@ -21,5 +21,4 @@ The dashboard bridges the gap between raw ticket logs and strategic decision-mak
 
 ---
 
-## 🏗️ Architecture & Workbook Layout
-The model utilizes a clean, modular 3-tier architecture to separate raw inputs, transformation logic, and presentation:
+
